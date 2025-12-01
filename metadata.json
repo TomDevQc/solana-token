@@ -1,1 +1,7 @@
+{
+  "name": "MonToken",
+  "symbol": "MTK",
+  "description": "Mon tout premier token sur Solana Devnet",
+  "image": "https://github.com/TomDevQc/solana-token/blob/main/logo.jpg"
+}
 
